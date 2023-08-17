@@ -2,7 +2,7 @@ Javascript Test
 
 TEST NAME: Stopwatch
 
-Subbmitted By :- Debashish Mahanta
+Subbmitted By :- Atul Chauhan
 
 
 Problem statement
